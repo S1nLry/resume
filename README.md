@@ -1,9 +1,14 @@
-## S1nLry的首页
+                                                              ## S1nLryのhomepage
 
-Hallo！！Nice to meet you here！This is my personal space of s1nlry。
+                                                                Hello world
 
-你来这里能发现什么呢？这里其实空空如也
+                                   Hallo！！Nice to meet you here！This is my personal space of S1nlry。
+                                                                
+Part I
+          这里是空的什么都没有。
+               
+Part II
+          关于我的爱好有很多such as： BaLisong；Flower cutting
 
-### S1nLry
-
-这里是空的什么都没有。
+Part III
+          你想找我做什么，这是一个有魔法的网站
