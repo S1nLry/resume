@@ -1,8 +1,7 @@
 ## S1nLry的首页
 
-You can use the [editor on GitHub](https://github.com/S1nLry/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hallo！！Nice to meet you here！This is my personal space of s1nlry。
+你来这里能发现什么呢？这里其实空空如也
 
 ### S1nLry的首页
 
