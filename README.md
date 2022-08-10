@@ -1,7 +1,7 @@
-S1nLryのhomepage
-Hello world
-Hallo！！Nice to meet you here！
-This is my personal space of S1nlry。
+S1nLryのhomepage                                                                                                                                                                                             
+Hello world                                                                                                                                                                    
+Hallo！！Nice to meet you here！                                                                                                                                                                    
+This is my personal space of S1nlry。                                                                                                                                                                    
                                                                 
 Part I                                                                                                                                                                    
          你想在这了解到什么，欢迎来到这里的小天才们！
