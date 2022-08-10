@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## S1nLry的首页
 
 You can use the [editor on GitHub](https://github.com/S1nLry/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 第一部分
-## Header 2
+# 来看我的网页干嘛
+## 里面空空如也
 ### Header 3
 
 - Bulleted
