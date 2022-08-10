@@ -1,8 +1,8 @@
-                                                              ## S1nLryのhomepage
+## S1nLryのhomepage
 
-                                                                Hello world
+Hello world
 
-                                   Hallo！！Nice to meet you here！This is my personal space of S1nlry。
+Hallo！！Nice to meet you here！This is my personal space of S1nlry。
                                                                 
 Part I                                                                                                                                                                    
           这里是空的什么都没有。
