@@ -1,9 +1,6 @@
-## S1nLryのhomepage
-
+S1nLryのhomepage
 Hello world
-
 Hallo！！Nice to meet you here！
-
 This is my personal space of S1nlry。
                                                                 
 Part I                                                                                                                                                                    
